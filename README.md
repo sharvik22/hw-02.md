@@ -157,9 +157,15 @@ core_fraction=5 - означает, что вы используется тол�
 
 ### Решение 4
 
+* Добавил в файл outputs.tf
+
+![image](https://github.com/user-attachments/assets/be12cc60-d40e-45db-abfe-a15e5d5e2b7f)
+
+* вывод terraform output
+
+![image](https://github.com/user-attachments/assets/e0c5d574-c987-4b88-bb24-d0fe4d55d6fb)
 
 -----
-
 
 ### Задание 5
 
