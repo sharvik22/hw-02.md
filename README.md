@@ -110,7 +110,11 @@ core_fraction=5 - означает, что вы используется тол�
 
 ### Решение 2
 
+![image](https://github.com/user-attachments/assets/0442d1f2-6fc3-436e-8af8-bdffcc658ae3)
 
+![image](https://github.com/user-attachments/assets/40231520-259e-411b-b177-a75d7e1f167c)
+
+![image](https://github.com/user-attachments/assets/7d68f7fd-80de-415b-8570-074dff2baa17)
 
 -------
 
