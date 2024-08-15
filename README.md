@@ -252,4 +252,24 @@ core_fraction=5 - означает, что вы используется тол�
 ![image](https://github.com/user-attachments/assets/e5cbee36-feb4-47a5-bf91-7212c6120dbf)
 
 
+* создал map переменную для блока metadata
+  
+![image](https://github.com/user-attachments/assets/d57a1efe-e786-4295-a214-001081073a7e)
 
+* закомментировал старые переменные
+
+![image](https://github.com/user-attachments/assets/67c6d907-95ac-4c50-aa95-f9524a07debc)
+
+![image](https://github.com/user-attachments/assets/fe9a2d3c-931b-4d27-b41f-5efdd12933ed)
+
+![image](https://github.com/user-attachments/assets/60d96254-748c-4256-8b19-211bac0747ab)
+
+* прописал map переменную
+
+![image](https://github.com/user-attachments/assets/9804d78f-c4d9-4144-9651-16e2e54b0870)
+
+![image](https://github.com/user-attachments/assets/60a30ec3-806a-483d-b8d4-4f8c4be794d6)
+
+![image](https://github.com/user-attachments/assets/7626713d-dfde-4d9c-acf1-120885e9dc66)
+
+![image](https://github.com/user-attachments/assets/d4206abe-1263-48ce-bfd9-30d554e2d777)
