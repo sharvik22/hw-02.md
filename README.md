@@ -64,6 +64,12 @@ Oшибка в синтаксисе main.tf (17) platform_id = "standart-v4" и 
 
 ![image](https://github.com/user-attachments/assets/54fd2b87-7cea-4129-993f-7e5ad749e20a)
 
+* Из официальной документации Yandex.Cloud
+
+![image](https://github.com/user-attachments/assets/70a4bfb0-8dc7-473c-b305-77390124b655)
+
+![image](https://github.com/user-attachments/assets/206f4429-33f6-4e2a-8fc8-4a7dcc30ff0f)
+
 
 * Исправленный код
 
@@ -71,9 +77,7 @@ Oшибка в синтаксисе main.tf (17) platform_id = "standart-v4" и 
 
 
 
-![image](https://github.com/user-attachments/assets/70a4bfb0-8dc7-473c-b305-77390124b655)
 
-![image](https://github.com/user-attachments/assets/206f4429-33f6-4e2a-8fc8-4a7dcc30ff0f)
 
 
 ![image](https://github.com/user-attachments/assets/baea5273-732d-45d5-99eb-861ca99c6bd2)
