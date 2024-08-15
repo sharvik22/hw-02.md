@@ -42,7 +42,7 @@
 
 ### Решение 1
 
-2.
+1-4. Создал сервисный акаунт, сгенерировал ssh ключ
 
 ![image](https://github.com/user-attachments/assets/d63274fa-1edb-446f-886b-f254226591f3)
 
@@ -52,11 +52,14 @@ Oшибка в синтаксисе main.tf (17) platform_id = "standart-v4" и 
 
 Исправлено на platform_id = "standard-v1"
 
+
 Ошибка в версии terraform в файле providers.tf  required_version = ">=1.5"
 
 Исправлено: required_version = ">=1.8.4"
 
+
 Ошибка allowed core number: 2, 4. Минимальная конфигурация в Yandex.Cloud CPU =2
+
 
 ![image](https://github.com/user-attachments/assets/54fd2b87-7cea-4129-993f-7e5ad749e20a)
 
