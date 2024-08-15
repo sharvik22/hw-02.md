@@ -58,6 +58,8 @@ Oшибка в синтаксисе main.tf (17) platform_id = "standart-v4" и 
 
 Ошибка allowed core number: 2, 4. Минимальная конфигурация в Yandex.Cloud CPU =2
 
+![image](https://github.com/user-attachments/assets/54fd2b87-7cea-4129-993f-7e5ad749e20a)
+
 ![image](https://github.com/user-attachments/assets/caf1fcb1-3f73-4bb4-b419-6713a938bea7)
 
 ![image](https://github.com/user-attachments/assets/2f8a0f45-7f03-40a3-91d3-9f5048b488ea)
@@ -67,6 +69,10 @@ Oшибка в синтаксисе main.tf (17) platform_id = "standart-v4" и 
 ![image](https://github.com/user-attachments/assets/70a4bfb0-8dc7-473c-b305-77390124b655)
 
 ![image](https://github.com/user-attachments/assets/206f4429-33f6-4e2a-8fc8-4a7dcc30ff0f)
+
+![image](https://github.com/user-attachments/assets/a71c7dd6-3a54-4ce9-ae33-64cdb5fc367c)
+
+![image](https://github.com/user-attachments/assets/9bf40b0d-b602-468a-8f93-ee117d83db6b)
 
 
 ----------
