@@ -71,10 +71,13 @@ Oшибка в синтаксисе main.tf (17) platform_id = "standart-v4" и 
 ![image](https://github.com/user-attachments/assets/206f4429-33f6-4e2a-8fc8-4a7dcc30ff0f)
 
 
-![image](https://github.com/user-attachments/assets/526566cd-c2a1-45d1-92f8-4eeb9d3c41a7)
+![image](https://github.com/user-attachments/assets/baea5273-732d-45d5-99eb-861ca99c6bd2)
 
-![image](https://github.com/user-attachments/assets/6cdd60ff-d605-47f5-b1a0-6a0e695c1775)
+![image](https://github.com/user-attachments/assets/c8a395cf-556e-40d8-9907-bf171dc632b4)
 
+![image](https://github.com/user-attachments/assets/3c818cf8-35fc-4590-a52d-9d5ea86703ce)
+
+![image](https://github.com/user-attachments/assets/1caec939-fc38-4016-ba96-cbfad2c56a4c)
 
 
 
