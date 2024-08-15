@@ -70,9 +70,12 @@ Oшибка в синтаксисе main.tf (17) platform_id = "standart-v4" и 
 
 ![image](https://github.com/user-attachments/assets/206f4429-33f6-4e2a-8fc8-4a7dcc30ff0f)
 
-![image](https://github.com/user-attachments/assets/a71c7dd6-3a54-4ce9-ae33-64cdb5fc367c)
 
-![image](https://github.com/user-attachments/assets/9bf40b0d-b602-468a-8f93-ee117d83db6b)
+![image](https://github.com/user-attachments/assets/526566cd-c2a1-45d1-92f8-4eeb9d3c41a7)
+
+![image](https://github.com/user-attachments/assets/6cdd60ff-d605-47f5-b1a0-6a0e695c1775)
+
+
 
 
 ----------
