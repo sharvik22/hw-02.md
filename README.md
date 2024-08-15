@@ -264,6 +264,8 @@ core_fraction=5 - означает, что вы используется тол�
 
 ![image](https://github.com/user-attachments/assets/60d96254-748c-4256-8b19-211bac0747ab)
 
+----
+
 * прописал map переменную
 
 ![image](https://github.com/user-attachments/assets/9804d78f-c4d9-4144-9651-16e2e54b0870)
