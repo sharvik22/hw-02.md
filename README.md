@@ -42,11 +42,11 @@
 
 ### Решение 1
 
-1-4. Создал сервисный акаунт, сгенерировал ssh ключ
+* Создал сервисный акаунт(authorized_key.json), сгенерировал ssh ключ.
 
 ![image](https://github.com/user-attachments/assets/d63274fa-1edb-446f-886b-f254226591f3)
 
-5. 
+* Инициализировал проект, выполните код, исправил ошибки
 
 Oшибка в синтаксисе main.tf (17) platform_id = "standart-v4" и версия v4 нет в Yandex.Cloud
 
