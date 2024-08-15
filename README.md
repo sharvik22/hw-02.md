@@ -179,7 +179,7 @@ core_fraction=5 - означает, что вы используется тол�
  
 ![image](https://github.com/user-attachments/assets/7283cce4-eb50-4f16-95c9-02c01cf9ebfd)
 
-* в vms_platform.tf закоментировал name
+* в vms_platform.tf закомментировал name
 
 ![image](https://github.com/user-attachments/assets/52a63eeb-4f01-48f1-9c36-b7fb042b02e8)
 
