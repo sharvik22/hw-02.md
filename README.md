@@ -64,7 +64,7 @@ Oшибка в синтаксисе main.tf (17) platform_id = "standart-v4" и 
 
 ![image](https://github.com/user-attachments/assets/2f8a0f45-7f03-40a3-91d3-9f5048b488ea)
 
-![image](https://github.com/user-attachments/assets/9c5195ed-9262-440f-b82e-61f9d569d1ab)
+
 
 ![image](https://github.com/user-attachments/assets/70a4bfb0-8dc7-473c-b305-77390124b655)
 
