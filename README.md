@@ -76,17 +76,16 @@ Oшибка в синтаксисе main.tf (17) platform_id = "standart-v4" и 
 ![image](https://github.com/user-attachments/assets/caf1fcb1-3f73-4bb4-b419-6713a938bea7)
 
 
-
-
-
+* terraform apply
 
 ![image](https://github.com/user-attachments/assets/baea5273-732d-45d5-99eb-861ca99c6bd2)
 
+* Создалась VM
+
 ![image](https://github.com/user-attachments/assets/c8a395cf-556e-40d8-9907-bf171dc632b4)
 
+* Подключение по ssh и выполнение команды
 ![image](https://github.com/user-attachments/assets/1caec939-fc38-4016-ba96-cbfad2c56a4c)
-
-
 
 ----------
 
