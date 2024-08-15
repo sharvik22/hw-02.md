@@ -175,7 +175,25 @@ core_fraction=5 - означает, что вы используется тол�
 
 ### Решение 5
 
+* locals.tf описал локалные переменные
+ 
+![image](https://github.com/user-attachments/assets/7283cce4-eb50-4f16-95c9-02c01cf9ebfd)
 
+* в vms_platform.tf закоментировал name
+
+![image](https://github.com/user-attachments/assets/52a63eeb-4f01-48f1-9c36-b7fb042b02e8)
+
+![image](https://github.com/user-attachments/assets/b59978a3-4af3-418b-bc5c-e4f8b9448728)
+
+* просмотрел изменения tarraform plan
+
+![image](https://github.com/user-attachments/assets/e16d5d42-776c-48bb-9541-6b0a642be2ee)
+
+* применил terraform apply
+
+![image](https://github.com/user-attachments/assets/dd5560e7-cf37-44ae-9b98-0e617252e695)
+
+![image](https://github.com/user-attachments/assets/b8100310-143b-4f89-80f0-31ee26958ce2)
 
 -----
 
