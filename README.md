@@ -251,6 +251,7 @@ core_fraction=5 - означает, что вы используется тол�
 
 ![image](https://github.com/user-attachments/assets/e5cbee36-feb4-47a5-bf91-7212c6120dbf)
 
+----
 
 * создал map переменную для блока metadata
   
@@ -263,8 +264,6 @@ core_fraction=5 - означает, что вы используется тол�
 ![image](https://github.com/user-attachments/assets/fe9a2d3c-931b-4d27-b41f-5efdd12933ed)
 
 ![image](https://github.com/user-attachments/assets/60d96254-748c-4256-8b19-211bac0747ab)
-
-----
 
 * прописал map переменную
 
