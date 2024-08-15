@@ -130,6 +130,7 @@ core_fraction=5 - означает, что вы используется тол�
 ![image](https://github.com/user-attachments/assets/3cc87d94-8888-4adf-97b2-9912cb6a7e40)
 
 * В файле main.tf прописал вторую VM2 с указанием зоны "ru-central1-b"
+* т.к. ВМ2 вдругой зоне (отлоичной от зоны по умолчанию, пришлось добавлять подсеть зоны B).
 
 ![image](https://github.com/user-attachments/assets/eb167a08-ce81-4dc5-9fe7-cc44e79983c6)
 
@@ -137,10 +138,9 @@ core_fraction=5 - означает, что вы используется тол�
 
  ![image](https://github.com/user-attachments/assets/b3a1086d-94cd-4b5e-96a5-3691528684c5)
 
-* Выполнил terraform apply
+* Выполнил terraform apply (создалась вторая ВМ)
 
-
-
+![image](https://github.com/user-attachments/assets/6d79bb1a-e0cd-4adf-bfc0-cb27aaeedf96)
 
  
 --------
